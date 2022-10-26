@@ -20,6 +20,4 @@ To make sure the app is working:
 
 "Hello Glass!" should be displayed in the center of the screen.
 
----
-
 Mirrored to [GitHub](https://github.com/jordanreger/HelloGlass) via [this build file](https://man.sr.ht/~jordanreger/sourcehut-to-github-mirror)
